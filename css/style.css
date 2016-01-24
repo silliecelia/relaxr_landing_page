@@ -43,8 +43,23 @@ li {
 	font-weight: 300px;
 }
 
-.top {
-	background-image: url("images/header_bg.jpg");
+.top-image {
+	background: url("../images/header_bg.jpg"); center center no-repeat;
+	width: 100%;
+	height: 550px;
+	background-size: cover;
+}
+
+.logo {
+	font-weight: 800px;
+	font-size: 24px;
+	color: #fff;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+
+.get-peace-text {
+	display: block;
 }
 
 .get-it-now {
