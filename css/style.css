@@ -1,6 +1,6 @@
 /*
 Project Name: Relaxr Landing Page
-Author: Your Name
+Author: Celia Chung
 Front End Developer @GA in NYC
 */
 
@@ -11,3 +11,58 @@ Front End Developer @GA in NYC
   box-sizing: border-box; /* IE */
 }
 
+body {
+	background-color: #f0efef;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 800;
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: 800;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+}
+
+ul { 
+  list-style: disc inside;
+}
+
+li {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	font-weight: 300px;
+}
+
+.top {
+	background-image: url("images/header_bg.jpg");
+}
+
+.get-it-now {
+	background-color: #f9e42e;
+}
+
+.benefits {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.sign-up-now {
+	font-size: 12px;
+	font-weight: 800;
+	background-color: #f9e42e;
+}
+
+.bottom-relaxr {
+	font-size: 24px;
+	font-weight: 800;
+}
