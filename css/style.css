@@ -43,41 +43,150 @@ li {
 	font-weight: 300px;
 }
 
-.top-image {
+.top {
 	background: url("../images/header_bg.jpg"); center center no-repeat;
 	width: 100%;
-	height: 550px;
+	height: 700px;
 	background-size: cover;
+	display: inline-block;
+	z-index: -1;
 }
 
 .logo {
-	font-weight: 800px;
+	font-weight: 800;
 	font-size: 24px;
 	color: #fff;
-	padding-top: 20px;
-	padding-left: 50px;
+	padding-top: 30px;
+	padding-left: 100px;
 }
 
 .get-peace-text {
-	display: block;
+	font-size: 24px;
+	font-weight: 600;
+	text-align: center;
+	color: #fff;
+	padding-top: 200px;
 }
 
-.get-it-now {
+.get-it-now-btn {
 	background-color: #f9e42e;
+	font-size: 14px;
+	font-weight: 800;
+	width:150px;
+	height: 40px;
+	padding-top: 14px;
+	margin-left: 640px;
+	margin-top: 30px;
+    border-radius: 5px;
+	text-align: center;
 }
 
-.benefits {
+.benefits-title {
 	font-size: 20px;
 	font-weight: 600;
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-bottom: 15px;
+	width: 100px;
+}
+
+.benefits-text {
+	font-size: 13px;
+	font-weight: 300;
+	padding-left: 50px;
+	padding-bottom: 10px;
+}
+
+.list {
+	font-size: 13px;
+	font-weight: 300;
+	padding-left: 100px;
+	padding-bottom: 80px;
+	line-height: 20px;
+}
+
+.testimonial {
+	background: url("../images/testimonial_bg.jpg"); center center no-repeat;
+	width: 100%;
+	height: 394px;
+	background-size: cover;
+}
+
+.testimonial-text {
+	font-weight: 300italic;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	padding-left: 500px;
+	padding-top: 100px;
+	width: 900px;
+	text-align: center;
+}
+
+.amanda {
+	font-size: 18px;
+	font-weight: 600;
+	color: #fff;
+	padding-top: 15px;
+	text-align: center;
 }
 
 .sign-up-now {
 	font-size: 12px;
 	font-weight: 800;
 	background-color: #f9e42e;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.sign-up-now-btn {
+	background-color: #033048;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 800;
+	padding-top: 14px;
+	margin-left: 640px;
+    border-radius: 5px;
+	width: 150px;
+	height: 40px;
+	text-align: center;
+}
+
+.bottom {
+	background-color: #121212;
+	color: #f9e42e;
+	width: 100%;
+	height: 300px;
+	padding-top: 50px;
 }
 
 .bottom-relaxr {
 	font-size: 24px;
 	font-weight: 800;
+	text-align: center;
 }
+
+.twitter {
+	padding-left: 670px;
+	padding-top: 30px;
+	padding-right: 20px;
+	display: inline-block;
+}
+
+.facebook {
+	padding-left: 10px;
+	display: inline-block;
+}
+
+.copyright {
+	padding-top: 70px;
+	text-align: center;
+	font-size: 9px;
+	font-weight: 600;
+	color:#fff;
+}
+
+
+
+
+
