@@ -15,10 +15,8 @@ body {
 	background-color: #f0efef;
 }
 
-p {
+div {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 14px;
-	font-weight: 800;
 }
 
 h1 {
