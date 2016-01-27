@@ -26,9 +26,9 @@ ul {
 li {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 26px;
-	font-weight: 300px;
+	font-weight: 300;
 	padding-left: 150px;
-	padding-bottom: 80px;
+	padding-bottom: 20px;
 }
 
 .top {
@@ -71,6 +71,10 @@ li {
 	text-align: center;
 }
 
+.benefits {
+	padding-bottom: 50px;
+}
+
 .benefits-title {
 	font-size: 40px;
 	font-weight: 600;
@@ -98,7 +102,7 @@ li {
 
 .testimonial-text {
 	font-style: italic;
-	font-weight: 600;
+	font-weight: 300;
 	font-size: 36px;
 	color: #fff;
 	line-height: 50px;
@@ -120,8 +124,8 @@ li {
 	font-size: 24px;
 	font-weight: 800;
 	background-color: #f9e42e;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 .sign-up-now-btn {
@@ -131,12 +135,12 @@ li {
 	font-weight: 800;
 	width: 300px;
 	height: 80px;
-	padding-top: 24px;
-	margin-left: 550px;
-	margin-top: 30px;
+	padding-top: 25px;
+	margin-top: 40px;
 	margin-bottom: 30px;
     border-radius: 5px;
 	text-align: center;
+	margin: 0 auto;
 }
 
 .bottom {
